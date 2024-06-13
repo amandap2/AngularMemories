@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Hihi eu amo o Felipe",
+      "autoria": "Amanda",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Hihi eu amo o Felipe2",
+      "autoria": "Amanda",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Hihi eu amo o Felipe3",
+      "autoria": "Amanda",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe,A Amanda ama mais que o Felipe",
+      "autoria": "Felipe",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "A Amanda me ama mais via API. sou um bobao.",
+      "autoria": "Felipe",
+      "modelo": "modelo1",
+      "id": 5
+    }
+  ]
+}
